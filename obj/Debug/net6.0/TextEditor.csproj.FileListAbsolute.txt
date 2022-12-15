@@ -1,0 +1,15 @@
+/home/isabella/TextEditor/bin/Debug/net6.0/TextEditor
+/home/isabella/TextEditor/bin/Debug/net6.0/TextEditor.deps.json
+/home/isabella/TextEditor/bin/Debug/net6.0/TextEditor.runtimeconfig.json
+/home/isabella/TextEditor/bin/Debug/net6.0/TextEditor.dll
+/home/isabella/TextEditor/bin/Debug/net6.0/ref/TextEditor.dll
+/home/isabella/TextEditor/bin/Debug/net6.0/TextEditor.pdb
+/home/isabella/TextEditor/obj/Debug/net6.0/TextEditor.csproj.AssemblyReference.cache
+/home/isabella/TextEditor/obj/Debug/net6.0/TextEditor.GeneratedMSBuildEditorConfig.editorconfig
+/home/isabella/TextEditor/obj/Debug/net6.0/TextEditor.AssemblyInfoInputs.cache
+/home/isabella/TextEditor/obj/Debug/net6.0/TextEditor.AssemblyInfo.cs
+/home/isabella/TextEditor/obj/Debug/net6.0/TextEditor.csproj.CoreCompileInputs.cache
+/home/isabella/TextEditor/obj/Debug/net6.0/TextEditor.dll
+/home/isabella/TextEditor/obj/Debug/net6.0/ref/TextEditor.dll
+/home/isabella/TextEditor/obj/Debug/net6.0/TextEditor.pdb
+/home/isabella/TextEditor/obj/Debug/net6.0/TextEditor.genruntimeconfig.cache
